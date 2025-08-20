@@ -5,8 +5,11 @@ A passionate Web Developer|| System Design Engineer || Azad kumar from India
 Email Me 👉 ✉️ azadkumarvraj8210276967@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
 🔭 I’m currently working on: Enter your project info here
+<br>
 🌱 I’m currently learning: Enter your tech here
+<br>
 👯 I’m looking to collaborate on: Enter your project name and info
+<br>
 🤔 I’m looking for help with: Your project here
 💬 Ask me about: Collaboration, Tech Support
 📫 How to reach me: Enter your email here
