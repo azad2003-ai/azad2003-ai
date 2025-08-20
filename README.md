@@ -1,4 +1,4 @@
-**A passionate Cloud Engineer || DevOps Engineer || Azad kumar from India**
+💫 Hi 👋, I'm Azad kumar 
 
 Email Me 👉 ✉️ **azadkumarvraj8210276967@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
