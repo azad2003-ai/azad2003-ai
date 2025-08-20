@@ -1,24 +1,16 @@
-💫 Hi 👋, I'm Azad kumar 
-<br>
-A passionate Web Developer|| 
-<br>
-System Design Engineer || Azad kumar from India
+# 💫 Hi 👋, I'm Azad kumar 
+**A passionate Web Developer || System Design Engineer || from India**
 
-Email Me 👉 ✉️ azadkumarvraj8210276967@gmail.com For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **azadkumarvraj8210276967@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-🔭 I’m currently working on: Enter your project info here
-<br>
-🌱 I’m currently learning: Enter your tech here
-<br>
-👯 I’m looking to collaborate on: Enter your project name and info
-<br>
-🤔 I’m looking for help with: Your project here
-<br>
-💬 Ask me about: Collaboration, Tech Support
-<br>
-📫 How to reach me: Enter your email here
-<br>
-⚡ Fun fact: I Love Tech and Tech Love Me
+- 🔭 **I’m currently working on:** Enter your project info here
+- 🌱 **I’m currently learning:** Enter your tech here
+- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 🤔 **I’m looking for help with:** Your project here
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** Enter your email here
+- 😄 **Pronouns:** azad 
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=azad2003-ai&theme=radical&no-frame=false&no-bg=true&margin-w=4)
