@@ -19,6 +19,10 @@ Email Me 👉 ✉️ azadkumarvraj8210276967@gmail.com For Collaboration/Project
 📫 How to reach me: Enter your email here
 <br>
 ⚡ Fun fact: I Love Tech and Tech Love Me
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=azad2003-ai&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/azad-kumar-834935339) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Azadkumar161440) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azadkumarvraj8210276967@gmail.com) 
 
@@ -28,9 +32,6 @@ Email Me 👉 ✉️ azadkumarvraj8210276967@gmail.com For Collaboration/Project
 ![](https://github-readme-stats.vercel.app/api?username=azad2003-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=azad2003-ai&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=azad2003-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=azad2003-ai&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
